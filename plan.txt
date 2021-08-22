@@ -1,0 +1,10 @@
+TODO 
+
+[+] Create NPM Project
+[+] Create index ,CSS,JS files
+[+] Install dependencies ,express, nodemon(dev dependencies)
+[+] Create a express server
+[+] do frontend part
+[+] Install socket.io ,Setup socket.io in server.js and client client.js
+[+] client send message logic in client.js
+[+] Receive message on server and broadcast to all clients
